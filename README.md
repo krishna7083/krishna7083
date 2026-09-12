@@ -268,7 +268,7 @@ Fresher         Telecom Scale        Senior SDE            FinTech @ Scale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krushna%20Oza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushna-oza)
 [![GitHub](https://img.shields.io/badge/GitHub-@krishna7083-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishna7083)
-[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrarabin18@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushnaoza70@gmail.com)
 
 </div>
 
