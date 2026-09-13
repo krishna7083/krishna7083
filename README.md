@@ -26,7 +26,7 @@
 class KrushnaOza:
 
     name       = "Krushna Oza"
-    location   = "Vadodara, Gujarat, India 🇮🇳"
+    location   = "Hyderabad, Telangana, India 🇮🇳"
     role       = "Software Engineer @ JPMorgan Chase 🏦"
 
     career     = ["TCS", "Reliance Jio", "TechMojo", "JPMorgan Chase"]
@@ -53,7 +53,7 @@ class KrushnaOza:
 
 ## 👋 Hey there, I'm Krushna!
 
-I'm a **Software Engineer** from **Vadodara, Gujarat 🇮🇳** — currently working at **JPMorgan Chase & Co.**, one of the world's most iconic financial institutions, where I help build systems that process **millions of customer transactions** every single day and turn raw data into real, meaningful financial intelligence.
+I'm a **Software Engineer** from **Hyderabad, Telangana 🇮🇳** — currently working at **JPMorgan Chase & Co.**, one of the world's most iconic financial institutions, where I help build systems that process **millions of customer transactions** every single day and turn raw data into real, meaningful financial intelligence.
 
 My journey in tech started at **TCS**, where I laid my engineering foundations, then moved on to **Reliance Jio** where I got a taste of building systems at massive telecom scale. From there I grew into a **Senior SDE at TechMojo**, and today I'm at **JPMorgan Chase** — working deep in the world of **data engineering, ML-powered personalization, and cloud-native architecture** on AWS.
 
