@@ -51,6 +51,18 @@ class KrushnaOza:
 
 ---
 
+## 👋 Hey there, I'm Krushna!
+
+I'm a **Software Engineer** from **Vadodara, Gujarat 🇮🇳** — currently working at **JPMorgan Chase & Co.**, one of the world's most iconic financial institutions, where I help build systems that process **millions of customer transactions** every single day and turn raw data into real, meaningful financial intelligence.
+
+My journey in tech started at **TCS**, where I laid my engineering foundations, then moved on to **Reliance Jio** where I got a taste of building systems at massive telecom scale. From there I grew into a **Senior SDE at TechMojo**, and today I'm at **JPMorgan Chase** — working deep in the world of **data engineering, ML-powered personalization, and cloud-native architecture** on AWS.
+
+Outside of my day job, I love exploring the frontier of AI — I've been building **custom MCP (Model Context Protocol) servers** that connect AI models to real-world tools and data, making them significantly smarter and more capable. If you believe the future belongs to engineers who can *build with AI*, not just *use AI* — we'll get along great. 🤝
+
+> 💡 *I write code that scales, design systems that last, and build AI tools that actually do something useful.*
+
+---
+
 ## 🏢 Career Journey
 
 ```
@@ -268,7 +280,7 @@ Fresher         Telecom Scale        Senior SDE            FinTech @ Scale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krushna%20Oza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushna-oza)
 [![GitHub](https://img.shields.io/badge/GitHub-@krishna7083-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishna7083)
-[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushnaoza70@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrarabin18@gmail.com)
 
 </div>
 
